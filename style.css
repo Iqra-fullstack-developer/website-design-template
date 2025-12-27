@@ -218,7 +218,7 @@ h3,dt{
 }
             /* hero section styling end */
 .main2{
-    background: url("../Web-Design-template/images/back1.avif") no-repeat , center;
+    background: url("./images/back1.avif") no-repeat , center;
     background-size: cover;
     background-attachment: fixed;
     /* position: fixed; */
