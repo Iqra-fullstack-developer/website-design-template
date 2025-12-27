@@ -96,7 +96,7 @@ section::before{
     font-size: 1.5em;
 }
 .first{
-    background: url("../Web-Design-template/images/main.jpg") no-repeat center;
+    background: url("./images/main.jpg") no-repeat center;
     background-size: cover;
     min-height: 100vh;
     width: 100%;
