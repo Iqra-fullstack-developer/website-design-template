@@ -359,8 +359,8 @@ h3,dt{
     box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
     transition: transform 0.3s;
 }
-.octagon:hover{
-  
+.octagon:hover {
+  transform: scale(1.2) rotate(45deg);
 }
 .forms{
     background: url("./images/main.jpg") no-repeat center ;
