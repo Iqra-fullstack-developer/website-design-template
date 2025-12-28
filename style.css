@@ -448,7 +448,6 @@ h3,dt{
     grid-template-columns: repeat(auto-fit, minmax(16em, 1fr));
     justify-content: space-evenly;
     width: 100%;
-    /* background: rgba(0, 0, 0, 0.887); */
     background: black;
     padding: 1em 2em;
 }
